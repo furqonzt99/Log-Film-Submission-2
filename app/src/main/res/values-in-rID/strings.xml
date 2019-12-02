@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Tayangan TV</string>
+    <string name="dragonball_durasi">24 Menit</string>
+    <string name="dragonball_genre">Animasi, Aksi, Petualangan</string>
+    <string name="dragonball_sinopsis">Dragon Ball menceritakan kisah seorang pejuang muda dengan nama Son Goku, seorang bocah lelaki dengan ekor yang memulai upaya untuk menjadi lebih kuat dan belajar tentang Bola Naga, ketika, setelah ketujuh orang itu berkumpul, berikan harapan apa pun kepada pilihan.</string>
+    <string name="fairytail_durasi">24 Menit</string>
+    <string name="fairytail_genre">Animasi, Aksi, Petualangan</string>
+    <string name="fairytail_sinopsis">Lucy, calon Penyihir Surgawi, menjadi teman dan sekutu penyihir kuat Natsu, Gray, dan Erza, yang merupakan bagian dari guild penyihir terkenal, Fairy Tail.</string>
+    <string name="family_guy_durasi">22 Menit</string>
+    <string name="family_guy_genre">Animasi, Komedi</string>
+    <string name="family_guy_sinopsis">Di kota Rhode Island yang aneh, sebuah keluarga yang tidak berfungsi berusaha keras untuk mengatasi kehidupan sehari-hari ketika mereka terlempar dari satu skenario gila ke skenario lainnya.</string>
+    <string name="flash_durasi">43 Menit</string>
+    <string name="flash_genre">Aksi, Petualangan, Drama</string>
+    <string name="flash_sinopsis">Setelah disambar petir, Barry Allen bangun dari komanya untuk menemukan bahwa dia diberi kekuatan kecepatan super, menjadi Flash, melawan kejahatan di Central City.</string>
+    <string name="gotham_durasi">45 Menit</string>
+    <string name="gotham_genre">Aksi, Kejahatan, Drama</string>
+    <string name="gotham_sinopsis">Kisah di balik kebangkitan Detektif James Gordon menjadi terkenal di Gotham City pada tahun-tahun sebelum kedatangan Batman.</string>
+    <string name="iron_fist_durasi">55 Minutes</string>
+    <string name="iron_fist_genre">Aksi, Petualangan, Kejahatan</string>
+    <string name="iron_fist_sinopsis">Seorang pria muda dianugerahi keterampilan seni bela diri yang luar biasa dan kekuatan mistis yang dikenal sebagai Iron Fist.</string>
+    <string name="narutoshippuden_durasi">24 Minutes</string>
+    <string name="narutoshippuden_genre">Animasi, Aksi, Petualangan</string>
+    <string name="narutoshippuden_sinopsis">Naruto Uzumaki, adalah seorang ninja yang keras, hiperaktif, remaja yang terus mencari persetujuan dan pengakuan, serta menjadi Hokage, yang diakui sebagai pemimpin dan terkuat dari semua ninja di desa.</string>
+    <string name="shameless_sinopsis">Keluarga Chicago yang suka berkelahi, sangat loyal tidak membuat permintaan maaf.</string>
+    <string name="shameless_genre">Komedi, Drama</string>
+    <string name="shameless_durasi">46 Menit</string>
+    <string name="supergirl_durasi">43 Menit</string>
+    <string name="supergirl_genre">Aksi, Petualangan, Drama</string>
+    <string name="supergirl_sinopsis">Petualangan sepupu Superman dalam karier pahlawan supernya sendiri.</string>
+    <string name="thesimpson_durasi">22 Menit</string>
+    <string name="thesimpson_genre">Animasi, Komedi</string>
+    <string name="thesimpson_sinopsis">Petualangan menyindir dari keluarga kelas pekerja di kota Springfield yang tidak sesuai.</string>
+    <string name="semua_umur_golongan">Semua Umur</string>
+    <string name="status_suka">Suka!</string>
+    <string name="toast_suka">"Kamu Suka "</string>
+    <string name="suka">Suka?</string>
+    <string name="referensi_lain">Referensi Lain</string>
+    <string name="konfirmasi_keluar">Tekan KEMBALI sekali lagi untuk keluar</string>
+</resources>

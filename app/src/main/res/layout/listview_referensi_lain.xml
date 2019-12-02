@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemList"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <ImageView
+        android:id="@+id/listPoster"
+        android:layout_width="132dp"
+        android:layout_height="198dp"
+        android:focusableInTouchMode="true"
+        android:scaleType="fitStart" />
+
+    <LinearLayout
+        android:layout_width="132dp"
+        android:layout_height="198dp"
+        android:background="?selectableItemBackground"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/listGenre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#80000000"
+            android:text="TextView"
+            android:textColor="@android:color/background_light"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/listJudul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#80000000"
+            android:text="TextView"
+            android:textColor="@android:color/background_light"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>

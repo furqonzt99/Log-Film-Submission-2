@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name" translatable="false">LogFilm</string>
+    <string name="genre">Genre</string>
+    <string name="tahun_rilis">Realease Year</string>
+    <string name="durasi">Duration</string>
+    <string name="sutradara">Director</string>
+    <string name="golongan">Category</string>
+    <string name="sinopsis">Synopsis</string>
+    <string name="aquaman_sinopsis">This film reveals the origin of Arthur Curry, a mighty human who can control water and sea animals. Where did he get his strength? Who are his parents, and does he deserve to be a king in 7 oceans?</string>
+    <string name="avengers_sinopsis">Iron Man, Thor, Hulk, and other members of the Avengers banded together to battle their most powerful enemy - the evil Thanos. On a mission to collect the six Infinity Stones, Thanos plans to use artifacts to cause his wish to be twisted in reality. The fate of the planet and its existence itself has never been and is more uncertain because everything the Avengers have fought for has led to this moment.</string>
+    <string name="deadpool_sinopsis">Deadpool mercenary Wisecracking meets Russell, an angry teenage mutant who lives in an orphanage. When Russell was targeted by Cable - a genetically enhanced soldier from the future - Deadpool realized that he would need help rescuing the boy from such a powerful enemy. He soon joined forces with Bedlam, Shatterstar, Domino and other powerful mutants to protect young Russell from Cable and his sophisticated weaponry.</string>
+    <string name="dragon_sinopsis">Everything looks good on Berk Island because the Vikings and dragons live together in peace and harmony. Now a Viking leader, Hiccup is increasingly interested in Astrid, while his beloved dragon Toothless meets an alluring creature that catches his eye. When the evil Grimmel launches a cunning pie to wipe out all the dragons, Hiccup must unite the two clans to find Caldera, a hidden land that holds the key to saving Toothless and his flying friends.</string>
+    <string name="glass_sinopsis">Film Glass will continue the search for Kevin Wendell Crumb who escaped after kidnapping the girls. Kevin Wendel Crumbang has 20 personalities in one soul and can turn into a monster when his personality named The Beast appears.</string>
+    <string name="mortalengines_sinopsis">Hundreds of years after the devastating event of destroying civilization, the mysterious young Hester Shaw emerged as the only one who could stop the city of London - now a giant predator on wheels - from devouring everything in its path. Excited and encouraged by his mother\'s memory, Hester joins for him with Tom Natsworthy, an outcast from London, and Anna Fang, a dangerous criminal with a gift on his head.</string>
+    <string name="preman_sinopsis">After three years, the Muslihat kecimpring business, which had retired as a thug, was having problems. Sales began to decline. Muslihat also faced a new problem when Safira, her only daughter, had grown into a teenager and began to be visited by men. A bigger problem then arises, when there is a problem between his former subordinates.</string>
+    <string name="spiderman_sinopsis">Bitten by a radioactive spider in the subway, Brooklyn teen Miles Morales suddenly develops a mysterious power that turns him into the only Spider-Man. When he met Peter Parker, he quickly realized that there were many others who shared his special flying talents. Miles must now have our new skills to fight the evil Kingpin, a big crazy person who can open a portal to another universe and attract different versions of Spider-Man to our world.</string>
+    <string name="mule_sinopsis">Broken, alone and facing foreclosure on his business, Earl Stone, a 90-year-old horticulturist took a job as a drug courier for Mexican cartels. His immediate success led to easy money and larger shipments which immediately caught the attention of DEA agent Colin Bates. When Earl\'s past was doomed If it began to burden his conscience, he had to decide whether to correct that mistake before law enforcement and cartel criminals chased him.</string>
+    <string name="venom_sinopsis">Journalist Eddie Brock tried to bring down Carlton Drake, the founder of the well-known cruel and brilliant Life Foundation. While investigating one of Drake\'s experiments, Eddie\'s body joins the alien Venom - leaving him with superhuman strength and strength. Twisted, dark and driven by anger, Poison tried to control the new and dangerous abilities that Eddie said were intoxicating.</string>
+    <string name="aquaman_genre">Fantasy/Sci-Fi</string>
+    <string name="avengers_genre">Fantasy/Science</string>
+    <string name="deadpool_genre">Fantasy/Science</string>
+    <string name="dragon_genre">Fantasy/Action</string>
+    <string name="glass_genre">Drama/Fantasy</string>
+    <string name="mortalengine_genre">Thriller/Fantasy</string>
+    <string name="preman_genre">Drama/Comedy-drama</string>
+    <string name="spiderman_genre">Fantasy/Science</string>
+    <string name="mule_genre">Drama/Mystery</string>
+    <string name="venom_genre">Thriller/Science</string>
+    <string name="aquaman_durasi">2 hours 22 minutes</string>
+    <string name="avengers_durasi">2 hours 40 minutes</string>
+    <string name="deadpool_durasi">2 hours 14 minutes</string>
+    <string name="dragon_durasi">1 hour 44 minutes</string>
+    <string name="glass_durasi">2 hours 9 minutes</string>
+    <string name="mortalengine_durasi">2 hours 9 minutes</string>
+    <string name="preman_durasi">1 hour 34 minutes</string>
+    <string name="spiderman_durasi">1 hour 56 minutes</string>
+    <string name="mule_durasi">1 hour 55 minutes</string>
+    <string name="venom_durasi">2 hours 20 minutes</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dragonball_genre">Animation, Action, Adventure</string>
+    <string name="dragonball_durasi">24 Minutes</string>
+    <string name="dragonball_sinopsis">Son Gokû, a fighter with a monkey tail, goes on a quest with an assortment of odd characters in search of the Dragon Balls, a set of crystals that can give its bearer anything they desire.</string>
+    <string name="fairytail_sinopsis">Lucy, an aspiring Celestial Wizard, becomes a friend and ally to powerful wizards Natsu, Gray, and Erza, who are part of the (in)famous wizard guild, Fairy Tail.</string>
+    <string name="fairytail_genre">" Animation, Action, Adventure"</string>
+    <string name="family_guy_genre">Animation, Comedy</string>
+    <string name="family_guy_sinopsis">In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another.</string>
+    <string name="fairytail_durasi">24 Minutes</string>
+    <string name="family_guy_durasi">22 Minutes</string>
+    <string name="flash_sinopsis">After being struck by lightning, Barry Allen wakes up from his coma to discover he\'s been given the power of super speed, becoming the Flash, fighting crime in Central City.</string>
+    <string name="flash_durasi">43 Minutes</string>
+    <string name="flash_genre">Action, Adventure, Drama</string>
+    <string name="gotham_sinopsis">The story behind Detective James Gordon\'s rise to prominence in Gotham City in the years before Batman\'s arrival.</string>
+    <string name="gotham_durasi">45 Minutes</string>
+    <string name="gotham_genre">Action, Crime, Drama</string>
+    <string name="iron_fist_sinopsis">A young man is bestowed with incredible martial arts skills and a mystical force known as the Iron Fist.</string>
+    <string name="iron_fist_durasi">55 Minutes</string>
+    <string name="iron_fist_genre">Action, Adventure, Crime</string>
+    <string name="narutoshippuden_sinopsis">Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.</string>
+    <string name="narutoshippuden_durasi">24 Minutes</string>
+    <string name="narutoshippuden_genre">Animation, Action, Adventure</string>
+    <string name="shameless_sinopsis">A scrappy, fiercely loyal Chicago family makes no apologies.</string>
+    <string name="shameless_durasi">46 Minutes</string>
+    <string name="shameless_genre">Comedy, Drama</string>
+    <string name="supergirl_sinopsis">The adventures of Superman\'s cousin in her own superhero career.</string>
+    <string name="supergirl_genre">Action, Adventure, Drama</string>
+    <string name="supergirl_durasi">43 Minutes</string>
+    <string name="thesimpson_sinopsis">The satiric adventures of a working-class family in the misfit city of Springfield.</string>
+    <string name="thesimpson_durasi">22 Minutes</string>
+    <string name="thesimpson_genre">Animation, Comedy</string>
+    <string name="semua_umur_golongan">All Ages</string>
+    <string name="tiga_belas_plus_golongan" translatable="false">13+</string>
+    <string name="tujuh_belas_plus_golongan" translatable="false">17+</string>
+    <string name="toast_suka">"You Liked "</string>
+    <string name="status_suka">Like it!</string>
+    <string name="suka">Like it?</string>
+    <string name="referensi_lain">Other References</string>
+    <string name="konfirmasi_keluar">Please click BACK again to exit</string>
+</resources>
