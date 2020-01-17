@@ -1,6 +1,7 @@
 # Log-Film-Submission-2
 
 Submission Checklists
+
 Menggunakan Fragment untuk menampung halaman Movies dan Tv Show. (Terpenuhi)
 
 Menggunakan RecyclerView untuk menampilkan daftar film jumlah minimal 10 item. (Terpenuhi)
